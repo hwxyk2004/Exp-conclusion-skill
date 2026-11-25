@@ -1,0 +1,4 @@
+interface:
+  display_name: "实验进度报告"
+  short_description: "把实验方法、改进与对照结果整理成中文 PDF，并为组会备稿标出证据出处"
+  default_prompt: "用 $experiment-progress-report 把这个目录里的实验整理成阶段进度 PDF，把本轮最重要的进展写进摘要，正文展开方法、对照结果和下一步，并生成组会素材索引。"
